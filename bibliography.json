@@ -11,7 +11,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/tnnls.2025.3526760"
+    "source_url": "https://doi.org/10.1109/tnnls.2025.3526760",
+    "discussion_path": "论文解读/05-数据隐私与可信推荐.md#paper-p010"
   },
   {
     "paper_id": "P092",
@@ -23,7 +24,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://doi.org/10.24963/ijcai.2025/439"
+    "source_url": "https://doi.org/10.24963/ijcai.2025/439",
+    "discussion_path": "论文解读/05-数据隐私与可信推荐.md#paper-p092"
   },
   {
     "paper_id": "P126",
@@ -35,7 +37,8 @@
       "推荐、搜索与个性化"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p126"
   },
   {
     "paper_id": "P185",
@@ -47,7 +50,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p185"
   },
   {
     "paper_id": "P186",
@@ -59,7 +63,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/03-个性化与对话交互.md#paper-p186"
   },
   {
     "paper_id": "P188",
@@ -71,7 +76,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p188"
   },
   {
     "paper_id": "P191",
@@ -83,7 +89,8 @@
       "边缘计算、网络与数字孪生"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p191"
   },
   {
     "paper_id": "P195",
@@ -95,7 +102,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-搜索检索与排序.md#paper-p195"
   },
   {
     "paper_id": "P197",
@@ -108,7 +116,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-搜索检索与排序.md#paper-p197"
   },
   {
     "paper_id": "P199",
@@ -120,7 +129,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p199"
   },
   {
     "paper_id": "P201",
@@ -133,7 +143,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p201"
   },
   {
     "paper_id": "P202",
@@ -145,7 +156,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p202"
   },
   {
     "paper_id": "P203",
@@ -157,7 +169,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p203"
   },
   {
     "paper_id": "P204",
@@ -169,7 +182,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p204"
   },
   {
     "paper_id": "P205",
@@ -181,7 +195,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://arxiv.org/abs/2511.05385"
+    "source_url": "https://arxiv.org/abs/2511.05385",
+    "discussion_path": "论文解读/02-搜索检索与排序.md#paper-p205"
   },
   {
     "paper_id": "P210",
@@ -193,7 +208,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-搜索检索与排序.md#paper-p210"
   },
   {
     "paper_id": "P212",
@@ -205,7 +221,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/03-个性化与对话交互.md#paper-p212"
   },
   {
     "paper_id": "P213",
@@ -218,7 +235,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-推荐搜索的交叉方法.md#paper-p213"
   },
   {
     "paper_id": "P219",
@@ -230,7 +248,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-搜索检索与排序.md#paper-p219"
   },
   {
     "paper_id": "P222",
@@ -243,7 +262,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p222"
   },
   {
     "paper_id": "P223",
@@ -255,7 +275,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p223"
   },
   {
     "paper_id": "P226",
@@ -267,7 +288,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/03-个性化与对话交互.md#paper-p226"
   },
   {
     "paper_id": "P227",
@@ -279,7 +301,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-搜索检索与排序.md#paper-p227"
   },
   {
     "paper_id": "P228",
@@ -290,7 +313,8 @@
       "推荐、搜索与个性化"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p228"
   },
   {
     "paper_id": "P231",
@@ -302,7 +326,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p231"
   },
   {
     "paper_id": "P232",
@@ -314,7 +339,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p232"
   },
   {
     "paper_id": "P235",
@@ -326,7 +352,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/03-个性化与对话交互.md#paper-p235"
   },
   {
     "paper_id": "P236",
@@ -338,7 +365,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/03-个性化与对话交互.md#paper-p236"
   },
   {
     "paper_id": "P239",
@@ -349,7 +377,8 @@
       "推荐、搜索与个性化"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p239"
   },
   {
     "paper_id": "P242",
@@ -362,7 +391,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-搜索检索与排序.md#paper-p242"
   },
   {
     "paper_id": "P243",
@@ -374,7 +404,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p243"
   },
   {
     "paper_id": "P244",
@@ -386,7 +417,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p244"
   },
   {
     "paper_id": "P246",
@@ -399,7 +431,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p246"
   },
   {
     "paper_id": "P247",
@@ -411,7 +444,8 @@
       "推荐、搜索与个性化"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-搜索检索与排序.md#paper-p247"
   },
   {
     "paper_id": "P248",
@@ -423,7 +457,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p248"
   },
   {
     "paper_id": "P250",
@@ -435,7 +470,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/03-个性化与对话交互.md#paper-p250"
   },
   {
     "paper_id": "P251",
@@ -447,7 +483,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p251"
   },
   {
     "paper_id": "P253",
@@ -459,7 +496,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/03-个性化与对话交互.md#paper-p253"
   },
   {
     "paper_id": "P255",
@@ -472,7 +510,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-推荐搜索的交叉方法.md#paper-p255"
   },
   {
     "paper_id": "P257",
@@ -485,7 +524,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p257"
   },
   {
     "paper_id": "P259",
@@ -498,7 +538,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-搜索检索与排序.md#paper-p259"
   },
   {
     "paper_id": "P261",
@@ -510,7 +551,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p261"
   },
   {
     "paper_id": "P262",
@@ -522,7 +564,8 @@
       "推荐、搜索与个性化"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/05-数据隐私与可信推荐.md#paper-p262"
   },
   {
     "paper_id": "P264",
@@ -535,7 +578,8 @@
       "边缘计算、网络与数字孪生"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p264"
   },
   {
     "paper_id": "P265",
@@ -547,7 +591,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p265"
   },
   {
     "paper_id": "P266",
@@ -558,7 +603,8 @@
       "推荐、搜索与个性化"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p266"
   },
   {
     "paper_id": "P267",
@@ -570,7 +616,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-搜索检索与排序.md#paper-p267"
   },
   {
     "paper_id": "P268",
@@ -583,7 +630,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p268"
   },
   {
     "paper_id": "P269",
@@ -595,7 +643,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p269"
   },
   {
     "paper_id": "P271",
@@ -608,7 +657,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/05-数据隐私与可信推荐.md#paper-p271"
   },
   {
     "paper_id": "P272",
@@ -620,7 +670,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p272"
   },
   {
     "paper_id": "P273",
@@ -633,7 +684,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-推荐搜索的交叉方法.md#paper-p273"
   },
   {
     "paper_id": "P274",
@@ -646,7 +698,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p274"
   },
   {
     "paper_id": "P277",
@@ -659,7 +712,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/05-数据隐私与可信推荐.md#paper-p277"
   },
   {
     "paper_id": "P282",
@@ -671,7 +725,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-搜索检索与排序.md#paper-p282"
   },
   {
     "paper_id": "P286",
@@ -683,7 +738,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p286"
   },
   {
     "paper_id": "P287",
@@ -696,7 +752,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p287"
   },
   {
     "paper_id": "P288",
@@ -709,7 +766,8 @@
       "边缘计算、网络与数字孪生"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/05-数据隐私与可信推荐.md#paper-p288"
   },
   {
     "paper_id": "P289",
@@ -721,7 +779,8 @@
       "边缘计算、网络与数字孪生"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-推荐搜索的交叉方法.md#paper-p289"
   },
   {
     "paper_id": "P291",
@@ -733,7 +792,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p291"
   },
   {
     "paper_id": "P292",
@@ -746,7 +806,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p292"
   },
   {
     "paper_id": "P293",
@@ -758,7 +819,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p293"
   },
   {
     "paper_id": "P294",
@@ -770,7 +832,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p294"
   },
   {
     "paper_id": "P295",
@@ -781,7 +844,8 @@
       "推荐、搜索与个性化"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p295"
   },
   {
     "paper_id": "P297",
@@ -793,7 +857,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p297"
   },
   {
     "paper_id": "P298",
@@ -805,7 +870,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p298"
   },
   {
     "paper_id": "P299",
@@ -817,7 +883,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p299"
   },
   {
     "paper_id": "P300",
@@ -829,7 +896,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p300"
   },
   {
     "paper_id": "P301",
@@ -841,7 +909,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p301"
   },
   {
     "paper_id": "P302",
@@ -854,7 +923,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-搜索检索与排序.md#paper-p302"
   },
   {
     "paper_id": "P303",
@@ -865,7 +935,8 @@
       "推荐、搜索与个性化"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p303"
   },
   {
     "paper_id": "P305",
@@ -877,7 +948,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p305"
   },
   {
     "paper_id": "P306",
@@ -889,7 +961,8 @@
       "推荐、搜索与个性化"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p306"
   },
   {
     "paper_id": "P307",
@@ -900,7 +973,8 @@
       "推荐、搜索与个性化"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p307"
   },
   {
     "paper_id": "P308",
@@ -913,7 +987,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-搜索检索与排序.md#paper-p308"
   },
   {
     "paper_id": "P309",
@@ -925,7 +1000,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-搜索检索与排序.md#paper-p309"
   },
   {
     "paper_id": "P310",
@@ -937,7 +1013,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p310"
   },
   {
     "paper_id": "P314",
@@ -949,7 +1026,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p314"
   },
   {
     "paper_id": "P315",
@@ -962,7 +1040,8 @@
       "边缘计算、网络与数字孪生"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p315"
   },
   {
     "paper_id": "P316",
@@ -974,7 +1053,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p316"
   },
   {
     "paper_id": "P317",
@@ -986,7 +1066,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p317"
   },
   {
     "paper_id": "P318",
@@ -998,7 +1079,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-搜索检索与排序.md#paper-p318"
   },
   {
     "paper_id": "P319",
@@ -1010,7 +1092,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p319"
   },
   {
     "paper_id": "P320",
@@ -1023,7 +1106,8 @@
       "生物医学AI"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p320"
   },
   {
     "paper_id": "P321",
@@ -1035,7 +1119,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p321"
   },
   {
     "paper_id": "P322",
@@ -1048,7 +1133,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-推荐搜索的交叉方法.md#paper-p322"
   },
   {
     "paper_id": "P326",
@@ -1060,7 +1146,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p326"
   },
   {
     "paper_id": "P330",
@@ -1071,7 +1158,8 @@
       "推荐、搜索与个性化"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p330"
   },
   {
     "paper_id": "P331",
@@ -1083,7 +1171,8 @@
       "推荐、搜索与个性化"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p331"
   },
   {
     "paper_id": "P332",
@@ -1095,7 +1184,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-搜索检索与排序.md#paper-p332"
   },
   {
     "paper_id": "P333",
@@ -1108,7 +1198,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p333"
   },
   {
     "paper_id": "P334",
@@ -1119,7 +1210,8 @@
       "推荐、搜索与个性化"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-推荐模型与表示学习.md#paper-p334"
   },
   {
     "paper_id": "P336",
@@ -1132,7 +1224,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/05-数据隐私与可信推荐.md#paper-p336"
   },
   {
     "paper_id": "P337",
@@ -1144,7 +1237,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-搜索检索与排序.md#paper-p337"
   },
   {
     "paper_id": "P339",
@@ -1156,7 +1250,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/03-个性化与对话交互.md#paper-p339"
   },
   {
     "paper_id": "P340",
@@ -1168,6 +1263,7 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-生成式模型与智能体.md#paper-p340"
   }
 ]
