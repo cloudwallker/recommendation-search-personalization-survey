@@ -1,0 +1,1173 @@
+[
+  {
+    "paper_id": "P010",
+    "title": "Anti-Confounding Hashing: Enhancing Radiological Image Retrieval via Debiased Weighting and Counterfactual Reasoning",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/tnnls.2025.3526760"
+  },
+  {
+    "paper_id": "P092",
+    "title": "Logarithmic Approximations for Fair k-Set Selection",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://doi.org/10.24963/ijcai.2025/439"
+  },
+  {
+    "paper_id": "P126",
+    "title": "Phidias : A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P185",
+    "title": "Tutorial on Generative Recommendation: Foundations and Frontiers",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P186",
+    "title": "Bridging Personalization and AI: From RAG to Agent",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P188",
+    "title": "Large Language Model Enhanced Recommender Systems: Methods, Applications and Trends",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P191",
+    "title": "MuSeR: Scalable Long-sequence Recommendation with Multi-interest Modeling",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P195",
+    "title": "R²-Searcher: Calibrating Retrieval and Reasoning Boundaries for Agentic Search",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P197",
+    "title": "From Local Indices to Global Identifiers: Generative Reranking for Recommender Systems via Global Action Space",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P199",
+    "title": "Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P201",
+    "title": "Hierarchical Residual Policy Optimization for Generative Recommendations",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P202",
+    "title": "The Best of Both Worlds: Harmonizing Semantic and Hash IDs for Sequential Recommendation",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P203",
+    "title": "Generative Auto-Bidding in Large-Scale Auctions via Diffusion Completer-Aligner",
+    "index_year": 2026,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P204",
+    "title": "Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P205",
+    "title": "TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation Framework",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://arxiv.org/abs/2511.05385"
+  },
+  {
+    "paper_id": "P210",
+    "title": "MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P212",
+    "title": "MTA: A Merge-then-Adapt Framework for Personalized Large Language Models",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P213",
+    "title": "Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P219",
+    "title": "SEARCH-R: Structured Entity-Aware Retrieval with Chain-of-Reasoning Navigator for Multi-hop Question Answering",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P222",
+    "title": "GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P223",
+    "title": "LLM-EDT: Large Language Models Enhanced Cross-domain Sequential Recommendation with Dual-phase Training",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P226",
+    "title": "Personalized Deep Research: A User-Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P227",
+    "title": "DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P228",
+    "title": "Embedding in Recommender Systems: A Survey",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P231",
+    "title": "Democratic Recommendation with User and Item Representatives Produced by Graph Condensation",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P232",
+    "title": "Multi-agents based User Values Mining for Recommendation",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P235",
+    "title": "From Single to Multi-Granularity: Toward Long-Term Memory Association and Selection of Conversational Agents",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P236",
+    "title": "Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P239",
+    "title": "D2TCDR: Disentangled Diffusion-based Transfer for Cross-Domain Recommendation",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P242",
+    "title": "To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P243",
+    "title": "SAGE: Global Semantic Alignment with LLMs for Long-Tail Sequential Recommendation",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P244",
+    "title": "BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P246",
+    "title": "NEZHA: A Zero-sacrifice and Hyperspeed Parallel Decoding Architecture for Generative Recommendations",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P247",
+    "title": "ARCHER: Shooting Straight in Multimodal E-Commerce Search at Alibaba with Progressive Alignment",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P248",
+    "title": "PromptX: A Cognitive Agent Platform with Long-term Memory",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P250",
+    "title": "A Survey of Personalization: From RAG to Agent",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P251",
+    "title": "Automated Information Flow Selection for Multi-Scenario Multi-Task Recommendation",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P253",
+    "title": "Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P255",
+    "title": "Emotion and Intention Guided Multi-Modal Learning for Sticker Response Selection",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P257",
+    "title": "Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning",
+    "index_year": 2025,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P259",
+    "title": "GeoRanker: Distance-Aware Ranking for Worldwide Image Geolocalization",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P261",
+    "title": "Cross-Task Collaborative Meta-Learning for Cold-Start Recommendations",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P262",
+    "title": "Twice the Gradient, Twice the Privacy Risk in Federated Learning? A Case Study of Federated Recommendation Systems",
+    "index_year": 2025,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "推荐、搜索与个性化"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P264",
+    "title": "CTKGRec: A Context-Aware Temporal Knowledge Graph Reasoning Model for Next POI Recommendation",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P265",
+    "title": "SELF: Surrogate-light Feature Selection with Large Language Models in Deep Recommender Systems",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P266",
+    "title": "Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P267",
+    "title": "SPARK: Adaptive Low-Rank Knowledge Graph Modeling in Hybrid Geometric Spaces for Recommendation",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P268",
+    "title": "Empowering Large Language Model for Sequential Recommendation via Multimodal Embeddings and Semantic IDs",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P269",
+    "title": "Empowering Denoising Sequential Recommendation with Large Language Model Embeddings",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P271",
+    "title": "Causality-aware Graph Aggregation Weight Estimator for Popularity Debiasing in Top-K Recommendation",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "可信机器学习",
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P272",
+    "title": "PAnDA: Combating Negative Augmentation via Large Language Models for User Cold-Start Recommendations",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P273",
+    "title": "Prompt Tuning as User Inherent Profile Inference Machine",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P274",
+    "title": "ECKGBench: Benchmarking Large Language Models in E-commerce Leveraging Knowledge Graph",
+    "index_year": 2025,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "可信机器学习",
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P277",
+    "title": "Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "可信机器学习",
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P282",
+    "title": "Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation",
+    "index_year": 2025,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P286",
+    "title": "Measure Domain’s Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P287",
+    "title": "Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P288",
+    "title": "LSRP: A Leader-Subordinate Retrieval Framework for Privacy-Preserving Cloud-Device Collaboration",
+    "index_year": 2025,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "推荐、搜索与个性化",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P289",
+    "title": "Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P291",
+    "title": "Multi-task offline Reinforcement Learning for Online Advertising in Recommender Systems",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P292",
+    "title": "NoteLLM-2: Multimodal Large Representation Models for Recommendation",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P293",
+    "title": "GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P294",
+    "title": "Large Language Model Enhanced Recommender Systems: A Survey",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P295",
+    "title": "DimCL: Dimension-Aware Augmentation in Contrastive Learning for Recommendation",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P297",
+    "title": "Flow Matching based Sequential Recommender Model",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P298",
+    "title": "Generative Auto-Bidding with Value-Guided Explorations",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P299",
+    "title": "PAD: Large Language Models Enhancing Sequential Recommendation",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P300",
+    "title": "Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P301",
+    "title": "STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P302",
+    "title": "FiRE: Enhancing MLLMs with Fine-Grained Context Learning for Complex Image Retrieval",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P303",
+    "title": "Multi-scenario Instance Embedding Learning for Deep Recommender Systems",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P305",
+    "title": "Uniform Graph Pre-training and Prompting for Transferable Recommendation",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P306",
+    "title": "Dual Test-time Training for Out-of-distribution Recommender System",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "可信机器学习",
+      "推荐、搜索与个性化"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P307",
+    "title": "An Adaptive Entire-space Multi-scenario Multi-task Transfer Learning Model for Recommendations",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P308",
+    "title": "LLM4Rerank: LLM-based Auto-Reranking Framework for Recommendations",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "可信机器学习",
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P309",
+    "title": "Behavior Modeling Space Reconstruction for E-Commerce Search",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P310",
+    "title": "SampleLLM: Optimizing Tabular Data Synthesis in Recommendations",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P314",
+    "title": "LLMEmb: Large Language Model Can Be a Good Embedding Generator for Sequential Recommendation",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P315",
+    "title": "POI-Enhancer: An LLM-based Semantic Enhancement Framework for POI Representation Learning",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体",
+      "边缘计算、网络与数字孪生"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P316",
+    "title": "LLM-Powered Efficient User Simulator for Recommender System",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P317",
+    "title": "SIGMA: Selective Gated Mamba for Sequential Recommendation",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P318",
+    "title": "Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation",
+    "index_year": 2025,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P319",
+    "title": "LLMTreeRec: A Tree-based Large Language Model Framework for Cold-start Recommendation",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P320",
+    "title": "A Contrastive Pretrain Model with Prompt Tuning for Multi-center Medication Recommendation",
+    "index_year": 2025,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "推荐、搜索与个性化",
+      "生物医学AI"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P321",
+    "title": "LLM-ESR: Large Language Models Enhancement for Long-tailed Sequential Recommendation",
+    "index_year": 2024,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P322",
+    "title": "G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models",
+    "index_year": 2024,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P326",
+    "title": "A Unified Framework for Multi-Domain CTR Prediction via Large Language Models",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P330",
+    "title": "GPRec: Bi-level User Modeling for Deep Recommender Systems",
+    "index_year": 2024,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P331",
+    "title": "Multimodal Recommender Systems: A Survey",
+    "index_year": 2024,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P332",
+    "title": "DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems",
+    "index_year": 2024,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P333",
+    "title": "LLM4MSR: An Effective Efficient Interpretable LLM-Enhanced Paradigm for Multi-Scenario Recommendation",
+    "index_year": 2024,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "可信机器学习",
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P334",
+    "title": "HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations",
+    "index_year": 2024,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P336",
+    "title": "Efficient and Robust Regularized Federated Recommendation",
+    "index_year": 2024,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "安全与隐私",
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P337",
+    "title": "Scalable Dynamic Embedding Size Search for Streaming Recommendation",
+    "index_year": 2024,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P339",
+    "title": "Multi-Behavior Recommendation with Personalized Directed Acyclic Behavior Graphs",
+    "index_year": 2024,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P340",
+    "title": "Recommender Systems in the Era of Large Language Models (LLMs)",
+    "index_year": 2024,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  }
+]
